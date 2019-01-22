@@ -1,0 +1,9 @@
+*{
+	color: #fff;
+}
+body{
+	background: #333;
+}
+li{
+	display: inline;
+}
